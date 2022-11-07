@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-
+    // if
         int numeroIf = 12;
 
         if (numeroIf > 0) {
@@ -12,7 +12,7 @@ public class Main {
             System.out.println("El numeroIf es 0");
         }
 
-
+    // While
         int numeroWhile = 0;
 
         while (numeroWhile < 3) {
@@ -20,7 +20,7 @@ public class Main {
             numeroWhile = numeroWhile + 1;
         }
 
-
+    // DO
         int numeroDoWhile = 3;
 
         do {
@@ -28,12 +28,12 @@ public class Main {
             numeroDoWhile = numeroDoWhile + 1;
         } while (numeroDoWhile < 3);
 
-
+    // For
         for (int numeroFor = 0; numeroFor <= 3; numeroFor = numeroFor + 1 ) {
             System.out.println(numeroFor);
         }
 
-
+    // Switch
         var estacion = "sabado";
 
         switch (estacion) {
