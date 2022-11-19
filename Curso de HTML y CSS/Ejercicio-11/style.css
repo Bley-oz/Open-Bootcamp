@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(85, 72, 140);
+    color: white;
+}
+
+.color {
+    background-color: rgb(59, 158, 57);
+    border: solid 1px rgb(43, 108, 43);
+    border-color: black;
+}
